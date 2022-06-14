@@ -3,6 +3,17 @@
 The default flutter counter app recreated using BLoC; with the added funtionality of decreasing the counter.
 Nothing special.
 
+<table>
+    <tbody>
+        <tr>
+            <td><img src= ".screenshot\counter_app.gif", alt= "Counter App Gif", width="200"/></td>
+            <td><img src= ".screenshot\home.png", alt= "Home Page Image", width="200"/></td>
+            <td><img src= ".screenshot\counter_cubit.png", alt= "CounterCubit Page Image", width="200"/></td>
+            <td><img src= ".screenshot\counter_cubit.png", alt= "CounterBloc Page Image", width="200"/></td>
+        </tr>
+    </tbody>
+</table>
+
 ## Getting Started
 
 For help getting started with running the application:
